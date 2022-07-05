@@ -1,0 +1,3 @@
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\bin\Release\net6.0\publish\News.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\bin\Release\net6.0\publish\News.Entity.deps.json
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\bin\Release\net6.0\publish\News.Entity.pdb

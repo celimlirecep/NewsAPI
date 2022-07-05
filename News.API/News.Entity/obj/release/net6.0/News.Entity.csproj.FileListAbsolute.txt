@@ -1,0 +1,12 @@
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\bin\release\net6.0\News.Entity.deps.json
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\bin\release\net6.0\News.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\bin\release\net6.0\News.Entity.pdb
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\obj\release\net6.0\News.Entity.csproj.AssemblyReference.cache
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\obj\release\net6.0\News.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\obj\release\net6.0\News.Entity.AssemblyInfoInputs.cache
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\obj\release\net6.0\News.Entity.AssemblyInfo.cs
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\obj\release\net6.0\News.Entity.csproj.CoreCompileInputs.cache
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\obj\release\net6.0\News.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\obj\release\net6.0\refint\News.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\obj\release\net6.0\News.Entity.pdb
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Entity\obj\release\net6.0\ref\News.Entity.dll

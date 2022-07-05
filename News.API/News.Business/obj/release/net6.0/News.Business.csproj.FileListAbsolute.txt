@@ -1,0 +1,17 @@
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\bin\release\net6.0\News.Business.deps.json
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\bin\release\net6.0\News.Business.dll
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\bin\release\net6.0\News.Business.pdb
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\bin\release\net6.0\News.DataAccess.dll
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\bin\release\net6.0\News.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\bin\release\net6.0\News.DataAccess.pdb
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\bin\release\net6.0\News.Entity.pdb
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\obj\release\net6.0\News.Business.csproj.AssemblyReference.cache
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\obj\release\net6.0\News.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\obj\release\net6.0\News.Business.AssemblyInfoInputs.cache
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\obj\release\net6.0\News.Business.AssemblyInfo.cs
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\obj\release\net6.0\News.Business.csproj.CoreCompileInputs.cache
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\obj\release\net6.0\News.Business.csproj.CopyComplete
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\obj\release\net6.0\News.Business.dll
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\obj\release\net6.0\refint\News.Business.dll
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\obj\release\net6.0\News.Business.pdb
+C:\Users\MK\Desktop\Yeni Klasör\MBNews\News.API\News.Business\obj\release\net6.0\ref\News.Business.dll
